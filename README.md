@@ -3,8 +3,8 @@
 
 This repository gathers labs from March 2020 class:
 
-#### 1. [Torch basics](https://github.com/lisakoppe/AWS-Cloud_architecture/tree/master/AWS_Jumpbox)
-#### 2. [Autograd: automatic differentiation](https://github.com/lisakoppe/AWS-Cloud_architecture/tree/master/AWS_RStudio-Server)
+#### 1. [Torch basics](https://github.com/lisakoppe/DSTI-Deep_Learning/blob/master/Lab1-Torch_basics.ipynb)
+#### 2. [Autograd: automatic differentiation](https://github.com/lisakoppe/DSTI-Deep_Learning/blob/master/Lab2-Autograd.ipynb)
 #### 3. []()
 #### 4. []()
 #### 5. []()
