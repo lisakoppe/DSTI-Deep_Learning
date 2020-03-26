@@ -9,8 +9,8 @@ This repository gathers labs from March 2020 class:
 #### 4. [Neural Network on GPU](https://github.com/lisakoppe/DSTI-Deep_Learning/blob/master/Lab4-NN_GPU.ipynb)
 #### 5. [Function approximation with a deep neural network](https://github.com/lisakoppe/DSTI-Deep_Learning/blob/master/Lab5-Function_approx.ipynb)
 #### 6. [MNIST handwritten digits classification with regularized MLPs](https://github.com/lisakoppe/DSTI-Deep_Learning/blob/master/Lab6-MNIST_regularized_MLPs.ipynb)
-#### 7. []()
-#### 8. []()
+#### 7. [Finetuning Torchvision Models](https://github.com/lisakoppe/DSTI-Deep_Learning/blob/master/Lab7-Torchvision.ipynb)
+#### 8. [PyTorch Object Detection and Tracking](https://github.com/lisakoppe/DSTI-Deep_Learning/blob/master/Lab8-Object_detection_tracking.ipynb)
 #### 9. []()
 #### 10. []()
 
