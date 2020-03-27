@@ -11,8 +11,8 @@ This repository gathers labs from March 2020 class:
 #### 6. [MNIST handwritten digits classification with regularized MLPs](https://github.com/lisakoppe/DSTI-Deep_Learning/blob/master/Lab6-MNIST_regularized_MLPs.ipynb)
 #### 7. [Finetuning Torchvision Models](https://github.com/lisakoppe/DSTI-Deep_Learning/blob/master/Lab7-Torchvision.ipynb)
 #### 8. [PyTorch Object Detection and Tracking](https://github.com/lisakoppe/DSTI-Deep_Learning/blob/master/Lab8-Object_detection_tracking.ipynb)
-#### 9. []()
-#### 10. []()
+#### 9. [Word Embeddings: Encoding Lexical Semantics](https://github.com/lisakoppe/DSTI-Deep_Learning/blob/master/Lab9-Word_embeddings.ipynb)
+#### 10. [A LSTM for Part-of-Speech Tagging](https://github.com/lisakoppe/DSTI-Deep_Learning/blob/master/Lab10-Part-of-Speech.ipynb)
 
 
 *Many thanks to Dr Lionel Fillatre for generously sharing his knowledge and experiences.*
